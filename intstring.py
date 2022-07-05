@@ -1,2 +1,2 @@
-a = 5
-print(5+"5")
+a = 5 # you must use , to print string and int together
+print(5,"5")
